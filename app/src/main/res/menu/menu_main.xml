@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/action_more"
+        android:icon="@drawable/more_vert"
+        android:title=""
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/action_help"
+                android:title="@string/acerca_de"
+                android:orderInCategory="5"
+                app:showAsAction="ifRoom"/>
+
+            <item
+                android:id="@+id/action_police"
+                android:title="@string/pol_tica_de_privacidad"
+                android:orderInCategory="5"
+                app:showAsAction="ifRoom"/>
+
+            <item
+                android:id="@+id/action_app_money"
+                android:title="@string/porcencal_pro"
+                android:orderInCategory="5"
+                app:showAsAction="ifRoom"/>
+
+        </menu>
+
+    </item>
+</menu>

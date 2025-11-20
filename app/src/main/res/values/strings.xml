@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PorcenCal Beta</string>
+    <string name="valor_inicial">Valor Inicial</string>
+    <string name="porcentaje">Porcentaje %</string>
+    <string name="simple">Calculadora de Porcentaje</string>
+    <string name="incremento">Calculando +5% de Incremento</string>
+    <string name="decremento">Calculando -5% de Decremento</string>
+    <string name="diferencia">Diferencia</string>
+    <string name="resultado_final_de_disminuci_n">Resultado final de Disminución</string>
+    <string name="resultado_final_de_incremento">Resultado final de Incremento</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="pol_tica_de_privacidad">Política de Privacidad</string>
+    <string name="porcencal_pro">PorcenCal Pro</string>
+    <string name="mensaje">PorcenCal, una ingeniosa creación de Magic Code Inc, es la herramienta definitiva para realizar cálculos de porcentaje de manera rápida y sencilla. Esta aplicación versátil y amigable permite a los usuarios calcular incrementos y descuentos de porcentaje con precisión. Ya sea para negocios, finanzas personales o tareas escolares, PorcenCal es la elección perfecta.</string>
+    <string-array name="format_options">
+        <item>Seleccionar formato</item>
+        <item>0</item>
+        <item>0.00</item>
+        <item>0.000</item>
+        <item>0.0000</item>
+    </string-array>
+
+</resources>
