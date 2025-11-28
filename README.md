@@ -2,7 +2,7 @@ La aplicación "PorcenCal Beta" es una calculadora de porcentajes desarrollada p
 
 <img width="240" height="240" alt="imagen" src="https://github.com/user-attachments/assets/0ceb2a40-0df2-4d6a-8d2b-476958dc8404" />
 
-Funcionalidades principales:
+### Funcionalidades principales:
 - Entrada de datos: El usuario ingresa un "Valor Inicial" (número decimal) y un "Porcentaje %" (también decimal).
 - Selección de formato: Un spinner permite elegir la precisión decimal de los resultados (0, 0.00, 0.000, 0.0000 decimales).
 - Cálculos realizados:
